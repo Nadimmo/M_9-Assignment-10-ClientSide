@@ -1,0 +1,56 @@
+[
+    {   "id":1,
+        "item_name": "Fun Cartoon Character Drawing",
+        "subcategory_Name": "Cartoon Drawing",
+        "short_description": "A whimsical cartoon drawing of a fun and colorful character full of personality.",
+        "price": 50.00,
+        "rating": 4.5,
+        "processing_time": "3-5 days",
+        "image": "https://i.ibb.co/0FHyxfQ/Five1.jpg"
+    },
+    {   
+        "item_name": "Humorous Comic Strip Drawing",
+        "subcategory_Name": "Comic Strip Drawing",
+        "short_description": "A humorous comic strip capturing a funny and entertaining story in panels.",
+        "price": 60.00,
+        "rating": 4.7,
+        "processing_time": "4-6 days",
+        "image": "https://i.ibb.co/gv3XdtN/Five2.jpg"
+    },
+    {   "id":3,
+        "item_name": "Bold Superhero Cartoon Design",
+        "subcategory_Name": "Superhero Cartoon Design",
+        "short_description": "An action-packed superhero cartoon design showcasing a heroic character in dynamic poses.",
+        "price": 75.00,
+        "rating": 4.8,
+        "processing_time": "5-7 days",
+        "image": "https://i.ibb.co/n7wqv0G/Five3.jpg"
+    },
+    {   "id":4,
+        "item_name": "Cute Animal Cartoon Drawing",
+        "subcategory_Name": "Cartoon Drawing",
+        "short_description": "A cute and adorable cartoon drawing of a playful animal character.",
+        "price": 55.00,
+        "rating": 4.6,
+        "processing_time": "3-5 days",
+        "image": "https://i.ibb.co/0FHyxfQ/Five1.jpg"
+    },
+    {   "id":5,
+        "item_name": "Adventure Comic Strip Drawing",
+        "subcategory_Name": "Comic Strip Drawing",
+        "short_description": "An adventurous comic strip depicting exciting and thrilling scenarios.",
+        "price": 65.00,
+        "rating": 4.7,
+        "processing_time": "4-6 days",
+        "image": "https://i.ibb.co/gv3XdtN/Five2.jpg"
+    },
+    {   "id":6,
+        "item_name": "Dynamic Superhero Cartoon Design",
+        "subcategory_Name": "Superhero Cartoon Design",
+        "short_description": "A dynamic superhero cartoon design featuring powerful and brave characters in action.",
+        "price": 80.00,
+        "rating": 4.9,
+        "processing_time": "5-7 days",
+        "image": "https://i.ibb.co/n7wqv0G/Five3.jpg"
+    }
+]
