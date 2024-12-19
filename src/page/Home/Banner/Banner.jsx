@@ -4,12 +4,12 @@ import 'keen-slider/keen-slider.min.css';
 import './style.css';
 
 const images = [
-  "https://i.ibb.co/yqh8g6F/slider-5.jpg",
-  "https://i.ibb.co/dMKVnkp/sidler-1.jpg",
-  "https://i.ibb.co/dQJdqjf/slider-2.jpg",
-  "https://i.ibb.co/bgQcmt5/slider-3.jpg",
-  "https://i.ibb.co/mXCh9Lf/slider44.jpg",
-  "https://i.ibb.co/G78zfjw/slider-4.jpg"
+  "https://i.ibb.co.com/yqh8g6F/slider-5.jpg",
+  "https://i.ibb.co.com/dMKVnkp/sidler-1.jpg",
+  "https://i.ibb.co.com/dQJdqjf/slider-2.jpg",
+  "https://i.ibb.co.com/bgQcmt5/slider-3.jpg",
+  "https://i.ibb.co.com/mXCh9Lf/slider44.jpg",
+  "https://i.ibb.co.com/G78zfjw/slider-4.jpg"
 ];
 
 const Banner = () => {
