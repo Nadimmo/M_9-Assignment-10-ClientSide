@@ -60,7 +60,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="text-center py-4 border-t border-gray-700 mt-8">
-          <p>&copy; 2024 Landscape Painting. All rights reserved by  Nadim Mostofa</p>
+          <p>&copy; {new Date().getFullYear()} Landscape Painting. All rights reserved by  Nadim Mostofa</p>
         </div>
       </div>
     </footer>
