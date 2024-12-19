@@ -6,7 +6,7 @@
         "price": 50.00,
         "rating": 4.5,
         "processing_time": "3-5 days",
-        "image": "https://i.ibb.co/0FHyxfQ/Five1.jpg"
+        "image": "https://i.ibb.co.com/0FHyxfQ/Five1.jpg"
     },
     {   
         "item_name": "Humorous Comic Strip Drawing",
@@ -15,7 +15,7 @@
         "price": 60.00,
         "rating": 4.7,
         "processing_time": "4-6 days",
-        "image": "https://i.ibb.co/gv3XdtN/Five2.jpg"
+        "image": "https://i.ibb.co.com/gv3XdtN/Five2.jpg"
     },
     {   "id":3,
         "item_name": "Bold Superhero Cartoon Design",
@@ -24,7 +24,7 @@
         "price": 75.00,
         "rating": 4.8,
         "processing_time": "5-7 days",
-        "image": "https://i.ibb.co/n7wqv0G/Five3.jpg"
+        "image": "https://i.ibb.co.com/n7wqv0G/Five3.jpg"
     },
     {   "id":4,
         "item_name": "Cute Animal Cartoon Drawing",
@@ -33,7 +33,7 @@
         "price": 55.00,
         "rating": 4.6,
         "processing_time": "3-5 days",
-        "image": "https://i.ibb.co/0FHyxfQ/Five1.jpg"
+        "image": "https://i.ibb.co.com/0FHyxfQ/Five1.jpg"
     },
     {   "id":5,
         "item_name": "Adventure Comic Strip Drawing",
@@ -42,7 +42,7 @@
         "price": 65.00,
         "rating": 4.7,
         "processing_time": "4-6 days",
-        "image": "https://i.ibb.co/gv3XdtN/Five2.jpg"
+        "image": "https://i.ibb.co.com/gv3XdtN/Five2.jpg"
     },
     {   "id":6,
         "item_name": "Dynamic Superhero Cartoon Design",
@@ -51,6 +51,6 @@
         "price": 80.00,
         "rating": 4.9,
         "processing_time": "5-7 days",
-        "image": "https://i.ibb.co/n7wqv0G/Five3.jpg"
+        "image": "https://i.ibb.co.com/n7wqv0G/Five3.jpg"
     }
 ]

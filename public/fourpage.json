@@ -6,7 +6,7 @@
         "price": 80.00,
         "rating": 4.6,
         "processing_time": "5-7 days",
-        "image": "https://i.ibb.co/XLHwrtx/Four1.jpg"
+        "image": "https://i.ibb.co.com/XLHwrtx/Four1.jpg"
     },
     {   "id":2,
         "item_name": "Expressive Figure Charcoal Sketch",
@@ -15,7 +15,7 @@
         "price": 100.00,
         "rating": 4.8,
         "processing_time": "6-8 days",
-        "image": "https://i.ibb.co/JKX118D/70.jpg"
+        "image": "https://i.ibb.co.com/JKX118D/70.jpg"
     },
     {   "id":3,
         "item_name": "Detailed Architectural Charcoal Drawing",
@@ -24,7 +24,7 @@
         "price": 90.00,
         "rating": 4.7,
         "processing_time": "7-9 days",
-        "image": "https://i.ibb.co/xmC8CJV/Four3.jpg"
+        "image": "https://i.ibb.co.com/xmC8CJV/Four3.jpg"
     },
     {   "id":4,
         "item_name": "Rustic Charcoal Forest Sketch",
@@ -33,7 +33,7 @@
         "price": 85.00,
         "rating": 4.6,
         "processing_time": "5-7 days",
-        "image": "https://i.ibb.co/XLHwrtx/Four1.jpg"
+        "image": "https://i.ibb.co.com/XLHwrtx/Four1.jpg"
     },
     {   "id":5,
         "item_name": "Dynamic Figure Charcoal Sketch",
@@ -42,7 +42,7 @@
         "price": 110.00,
         "rating": 4.8,
         "processing_time": "6-8 days",
-        "image": "https://i.ibb.co/JKX118D/70.jpg"
+        "image": "https://i.ibb.co.com/JKX118D/70.jpg"
     },
     {   "id":5,
         "item_name": "Modern Architectural Charcoal Drawing",
@@ -51,6 +51,6 @@
         "price": 95.00,
         "rating": 4.7,
         "processing_time": "7-9 days",
-        "image": "https://i.ibb.co/xmC8CJV/Four3.jpg"
+        "image": "https://i.ibb.co.com/xmC8CJV/Four3.jpg"
     }
 ]

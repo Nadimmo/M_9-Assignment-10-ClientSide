@@ -6,7 +6,7 @@
         "price": 50.00,
         "rating": 4.8,
         "processing_time": "3-5 days",
-        "image": "https://i.ibb.co/TBdZXWm/one.jpg"
+        "image": "https://i.ibb.co.com/TBdZXWm/one.jpg"
     },
     {   "id": 2,
         "item_name": "Bold Ink Outline Portrait",
@@ -15,7 +15,7 @@
         "price": 60.00,
         "rating": 4.6,
         "processing_time": "4-6 days",
-        "image": "https://i.ibb.co/4tJzWtz/F1.jpg"
+        "image": "https://i.ibb.co.com/4tJzWtz/F1.jpg"
     },
     {  "id": 3,
         "item_name": "Vibrant Acrylic Portrait Canvas",
@@ -24,7 +24,7 @@
         "price": 120.00,
         "rating": 4.9,
         "processing_time": "7-10 days",
-        "image": "https://i.ibb.co/KmMhvcq/F3.jpg"
+        "image": "https://i.ibb.co.com/KmMhvcq/F3.jpg"
     },
     {   "id": 4,
         "item_name": "Classic Pencil Sketch Portrait",
@@ -33,7 +33,7 @@
         "price": 55.00,
         "rating": 4.7,
         "processing_time": "3-5 days",
-        "image": "https://i.ibb.co/TBdZXWm/one.jpg"
+        "image": "https://i.ibb.co.com/TBdZXWm/one.jpg"
     },
     {   "id": 5,
         "item_name": "Minimalist Ink Outline Portrait",
@@ -42,7 +42,7 @@
         "price": 65.00,
         "rating": 4.5,
         "processing_time": "4-6 days",
-        "image": "https://i.ibb.co/4tJzWtz/F1.jpg"
+        "image": "https://i.ibb.co.com/4tJzWtz/F1.jpg"
     },
     {   "id": 6,
         "item_name": "Expressive Acrylic Portrait Canvas",
@@ -51,6 +51,6 @@
         "price": 130.00,
         "rating": 4.9,
         "processing_time": "7-10 days",
-        "image": "https://i.ibb.co/KmMhvcq/F3.jpg"
+        "image": "https://i.ibb.co.com/KmMhvcq/F3.jpg"
     }
 ]

@@ -6,7 +6,7 @@
         "price": 120.00,
         "rating": 4.8,
         "processing_time": "10-12 days",
-        "image": "https://i.ibb.co/12dKJWv/T1.jpg"
+        "image": "https://i.ibb.co.com/12dKJWv/T1.jpg"
     },
     {   "id":2,
         "item_name": "Detailed Realistic Oil Portrait",
@@ -15,7 +15,7 @@
         "price": 200.00,
         "rating": 4.9,
         "processing_time": "12-15 days",
-        "image": "https://i.ibb.co/MfSqxpN/T2.jpg"
+        "image": "https://i.ibb.co.com/MfSqxpN/T2.jpg"
     },
     {   "id":3,
         "item_name": "Colorful Abstract Oil Painting",
@@ -24,7 +24,7 @@
         "price": 150.00,
         "rating": 4.7,
         "processing_time": "8-10 days",
-        "image": "https://i.ibb.co/yncK2Df/T3.jpg"
+        "image": "https://i.ibb.co.com/yncK2Df/T3.jpg"
     },
     {   "id":3,
         "item_name": "Mountain View Oil Painting",
@@ -33,7 +33,7 @@
         "price": 130.00,
         "rating": 4.8,
         "processing_time": "10-12 days",
-        "image": "https://i.ibb.co/12dKJWv/T1.jpg"
+        "image": "https://i.ibb.co.com/12dKJWv/T1.jpg"
     },
     {   "id":5,
         "item_name": "Elegant Realistic Oil Portrait",
@@ -42,7 +42,7 @@
         "price": 220.00,
         "rating": 4.9,
         "processing_time": "12-15 days",
-        "image": "https://i.ibb.co/MfSqxpN/T2.jpg"
+        "image": "https://i.ibb.co.com/MfSqxpN/T2.jpg"
     },
     {   "id":6,
         "item_name": "Dynamic Abstract Oil Painting",
@@ -51,6 +51,6 @@
         "price": 160.00,
         "rating": 4.7,
         "processing_time": "8-10 days",
-        "image": "https://i.ibb.co/yncK2Df/T3.jpg"
+        "image": "https://i.ibb.co.com/yncK2Df/T3.jpg"
     }
 ]

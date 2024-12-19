@@ -6,7 +6,7 @@
         "price": 70.00,
         "rating": 4.7,
         "processing_time": "5-7 days",
-        "image": "https://i.ibb.co/GthXXg3/S1.jpg"
+        "image": "https://i.ibb.co.com/GthXXg3/S1.jpg"
     },
     {   "id":2,
         "item_name": "Vibrant Floral Watercolor Art",
@@ -15,7 +15,7 @@
         "price": 80.00,
         "rating": 4.8,
         "processing_time": "6-8 days",
-        "image": "https://i.ibb.co/vZfKC2Y/S2.jpg"
+        "image": "https://i.ibb.co.com/vZfKC2Y/S2.jpg"
     },
     {   "id":3,
         "item_name": "Majestic Animal Watercolor Portrait",
@@ -24,7 +24,7 @@
         "price": 90.00,
         "rating": 4.9,
         "processing_time": "7-9 days",
-        "image": "https://i.ibb.co/GCjfYbs/S3.jpg"
+        "image": "https://i.ibb.co.com/GCjfYbs/S3.jpg"
     },
     {   "id":4,
         "item_name": "Peaceful Seaside Watercolour Painting",
@@ -33,7 +33,7 @@
         "price": 75.00,
         "rating": 4.7,
         "processing_time": "5-7 days",
-        "image": "https://i.ibb.co/GthXXg3/S1.jpg"
+        "image": "https://i.ibb.co.com/GthXXg3/S1.jpg"
     },
     {   "id":5,
         "item_name": "Delicate Floral Watercolor Art",
@@ -42,7 +42,7 @@
         "price": 85.00,
         "rating": 4.8,
         "processing_time": "6-8 days",
-        "image": "https://i.ibb.co/vZfKC2Y/S2.jpg"
+        "image": "https://i.ibb.co.com/vZfKC2Y/S2.jpg"
     },
     {   "id":6,
         "item_name": "Wildlife Animal Watercolor Portrait",
@@ -51,6 +51,6 @@
         "price": 95.00,
         "rating": 4.9,
         "processing_time": "7-9 days",
-        "image": "https://i.ibb.co/GCjfYbs/S3.jpg"
+        "image": "https://i.ibb.co.com/GCjfYbs/S3.jpg"
     }
 ]
